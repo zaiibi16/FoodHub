@@ -25,6 +25,9 @@ Install all the dependencies listed in package.json file.
 * yarn ios
 * yarn android
 
+### App Screenshots
+<img src="AppScreenshots/SplashScreen.png" width="200" height=auto> <img src="AppScreenshots/Welcome.png" width="200" height=auto> <img src="AppScreenshots/SignUp.png" width="200" height=auto> <img src="AppScreenshots/Login.png" width="200" height=auto> <img src="AppScreenshots/GoogleSignin.png" width="200" height=auto> <img src="AppScreenshots/HomeScreen.png" width="200" height=auto> <img src="AppScreenshots/SideDrawer.png" width="200" height=auto> <img src="AppScreenshots/HomeScreen2.png" width="200" height=auto> <img src="AppScreenshots/RestaurantDetails.png" width="200" height=auto> <img src="AppScreenshots/FoodItemDetails.png" width="200" height=auto> <img src="AppScreenshots/Cart.png" width="200" height=auto> <img src="AppScreenshots/ThankYou.png" width="200" height=auto> <img src="AppScreenshots/Profile.png" width="200" height=auto>
+
 ### Authors
 Zaryyab Tahir
 
