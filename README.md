@@ -1,26 +1,26 @@
 # FoodHub
 Food Delivery app developed on React Native
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 Node.js
 React Native CLI
 
-##Installing
+## Installing
 Clone the repository
 
-##Install the dependencies
+## Install the dependencies
 Install all the dependencies listed in package.json file.
 
 
-##Start the application
+## Start the application
 yarn ios
 yarn android
 
-##Authors
+## Authors
 Zaryyab Tahir
 
-##Acknowledgments
+## Acknowledgments
 The app was designed using design reference from Figma [https://www.figma.com/community/file/1016293188579696778]
